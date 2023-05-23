@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096120812168",
+    "project_id": "candado-test",
+    "storage_bucket": "candado-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096120812168:android:fd522a394e8d32297d153d",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096120812168-j8cogc18r1iakbgt6e0ndbb3tkqavaml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaserealtime",
+            "certificate_hash": "5d33645091bfc22228d4a4c1b5de3a52817f5213"
+          }
+        },
+        {
+          "client_id": "1096120812168-nbh3il3co0adm96qcbsea4blu6c5m8co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1AmE2RIXfzRN3plFbMftNMbhhpCC1uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096120812168-nbh3il3co0adm96qcbsea4blu6c5m8co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
